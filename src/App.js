@@ -1,6 +1,4 @@
-import ShopItem from "./components/shop_item/ShopItem";
-
-
+import { ShopItem } from "./components/shop_item/ShopItemFC";
 
 export const App = (item) => {
   return (
